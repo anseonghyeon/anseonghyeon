@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anseonghyeon
-- 👀 I’m interested in Java Spring
-- 🌱 I’m currently learning Java Spring
+- 👀 I’m interested in Java, Spring
+- 🌱 I’m currently learning Java, Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anseonghyeon@gmail.com
 
