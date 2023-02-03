@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anseonghyeon
-- 👀 I’m interested in Java, jsp
-- 🌱 I’m currently learning Java, jsp
+- 👀 I’m interested in Java(jsp), python 
+- 🌱 I’m currently learning Java(jsp), python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anseonghyeon@gmail.com
 
