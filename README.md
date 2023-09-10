@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anseonghyeon
-- 👀 I’m interested in Java(jsp), python 
-- 🌱 I’m currently learning java(spring), python(django)
+- 👋 Hi, I’m Seonghyeon
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning java(Spring), python(Django)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anseonghyeon@gmail.com
 
