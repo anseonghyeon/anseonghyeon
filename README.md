@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Seonghyeon
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning java(Spring), python(Django)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript(React), java(Spring)
+- 💞️ I’m looking to collaborate on web development ideas
 - 📫 How to reach me anseonghyeon@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseonghyeon&show_icons=true&theme=transparent)
