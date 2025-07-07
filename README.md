@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Seonghyeon
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning javascript(React), java(Spring)
-- 💞️ I’m looking to collaborate on web development ideas
-- 📫 How to reach me anseonghyeon@gmail.com
+# 👋 안녕하세요? 나는 성현
+- 👀 나는 웹 프로그래밍에 관심이 많다
+- 🌱 현재 리액트를 공부중
+- 💞️ 재미있는 아이디어가 있으면 협업해요?
+- 📫 연락은 이쪽으로 주세요 anseonghyeon@gmail.com
 
 
